@@ -1,5 +1,7 @@
 # France Pack for Subway Builder
 
+[![Download](https://img.shields.io/badge/Download_/_Télécharger-FrancePack.zip-2ea44f?style=for-the-badge&logo=github)](https://github.com/flopinou/FrancePack/releases/latest/download/FrancePack.zip)
+
 [🇬🇧 English](#-english) | [🇫🇷 Français](#-français)
 
 ## 🇬🇧 English
