@@ -15,7 +15,7 @@
             lil_desc: 'Connect the urban triangle of Lille-Roubaix-Tourcoing.',
             tls_desc: 'Propel the Pink City towards its aerospace hubs.',
             rns_desc: 'Master the flow of the Breton capital.',
-            notif: 'Thank you for downloading my map!\n\nIf the map is blank, make sure you have launched run_windows.bat or run_mac-linux.sh (depending on your OS) from the mod folder. Ensure the terminal window remains open in the background, then restart the game.\n\nTo load the map, press Ctrl + Shift + R (Cmd + Option + R on Mac) while on the main menu.\n\nFeel free to report any bugs in the mod\'s post within the #map-sharing forum on the official Subway Builder Discord.\n\nEnjoy!'
+            notif: 'Thank you for downloading my map!\n\nIf the map is blank, make sure you have launched run_windows.bat or run_mac-linux.sh (depending on your OS) from the mod folder. Ensure the terminal window remains open in the background, then restart the game.\n\nFeel free to report any bugs in the mod\'s post within the #map-sharing forum on the official Subway Builder Discord.\n\nEnjoy!'
         },
         fr: {
             par_desc: 'Réimaginez le Métropolitain dans la Ville Lumière.',
@@ -24,7 +24,7 @@
             lil_desc: 'Reliez le triangle urbain Lille-Roubaix-Tourcoing.',
             tls_desc: 'Propulsez la Ville Rose vers ses pôles aéronautiques.',
             rns_desc: 'Maîtrisez les flux de la capitale bretonne.',
-            notif: 'Merci d\'avoir téléchargé ma carte !\n\nSi rien ne s\'affiche sur la carte, assurez-vous d\'avoir lancé run_windows.bat ou run_mac-linux.sh (selon votre système) dans le dossier du mod. Vérifiez que la fenêtre du terminal reste bien ouverte en arrière-plan, puis redémarrez le jeu.\n\nPour charger la map, utilisez le raccourci Ctrl + Shift + R (Cmd + Option + R sur Mac) depuis le menu principal.\n\nN\'hésitez pas à signaler les bugs sur le post du mod dans le forum #map-sharing du Discord officiel de Subway Builder.\n\nBon jeu !'
+            notif: 'Merci d\'avoir téléchargé ma carte !\n\nSi rien ne s\'affiche sur la carte, assurez-vous d\'avoir lancé run_windows.bat ou run_mac-linux.sh (selon votre système) dans le dossier du mod. Vérifiez que la fenêtre du terminal reste bien ouverte en arrière-plan, puis redémarrez le jeu.\n\nN\'hésitez pas à signaler les bugs sur le post du mod dans le forum #map-sharing du Discord officiel de Subway Builder.\n\nBon jeu !'
         }
     });
 
