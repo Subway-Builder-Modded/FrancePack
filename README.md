@@ -10,6 +10,8 @@ Subway Builder modpack that adds several French cities (Paris, Lyon, Marseille, 
 
 **Realistic demand data for all maps:** The game's generated traffic uses official French government data (INSEE and SIRENE database) for the distribution of population and jobs. This data is combined with attendance figures from the SNCF, the Ministry of Culture, and OpenStreetMap to simulate the flow towards train stations, airports, stadiums, and museums.
 
+### Installation Instructions:
+
 **Two installation methods are available:** 👉 [Script Method](#method-1-script-method) | 👉 [Map Manager Method](#method-2-map-manager-method)
 
 * **The Script Method (Recommended):** Faster installation and provides the complete version of the mod. *(Note: If this method does not work for you, please fall back to the Map Manager Method).*
@@ -42,6 +44,8 @@ Subway Builder modpack that adds several French cities (Paris, Lyon, Marseille, 
 Un modpack pour Subway Builder qui rajoute plusieurs villes françaises (Paris, Lyon, Marseille, Lille, Toulouse, Rennes) au jeu.
 
 **Données de demande réalistes pour toutes les cartes :** Le trafic généré par le jeu utilise les données officielles du gouvernement français (INSEE et base SIRENE) pour la répartition de la population et des emplois. Ces données sont croisées avec les chiffres de fréquentation de la SNCF, du Ministère de la Culture et d'OpenStreetMap pour simuler les flux vers les gares, aéroports, stades et musées.
+
+### Instructions d'installation :
 
 **Deux méthodes d'installation sont disponibles :** 👉 [Méthode Script](#méthode-1--méthode-script) | 👉 [Méthode Map Manager](#méthode-2--méthode-map-manager)
 
